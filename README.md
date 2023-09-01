@@ -11,4 +11,4 @@ React is an open-source JavaScript library for building user interfaces (UIs) an
 | Sr # | Websites     | URL's               |
 | :-------- | :------- | :------------------------- |
 | `1` | `legacy react` | `https://legacy.reactjs.org/docs/getting-started.html`|| | |  
-| `1` | `React DOC` | | `https://react.dev/`| |   | 
+| `1` | `React DOC` | | `https://react.dev/`|| | | 
